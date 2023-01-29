@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-r 1280x720 -f 30 -d /dev/v4l/by-id/usb-SHENZHEN_AONI_ELECTRONIC_CO._LTD_Full_HD_webcam_AN20200417001-video-index0"
